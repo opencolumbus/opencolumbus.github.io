@@ -1,0 +1,78 @@
+@import 'lib/flatly';
+@import 'lib/html';
+@import 'lib/mermaid';
+@import 'lib/syntax';
+
+body {
+  font-size: 13pt;
+  padding-top: 70px;
+}
+
+img {
+  max-width: 100%;
+}
+
+dd {
+  padding-bottom: 1em;
+  padding-left: 3em;
+}
+
+th,
+td {
+  border: 1px solid $cs-aux-primary;
+  margin: 0;
+  padding: 6px 13px;
+  text-align: left;
+}
+
+pre {
+  background-color: white;
+  border: 0;
+  border-radius: 0;
+  color: $cs-primary;
+}
+
+pre.highlight {
+  background-color: $cs-bg-primary;
+  border-left: .2em solid $cs-success;
+}
+
+footer {
+  background-color: $cs-bg-primary;
+  margin-top: 2em;
+  padding: 2em 0;
+
+  h1 {
+    color: $cs-primary;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 0;
+  }
+
+  .logo {
+    margin: 0 0 .5em;
+  }
+}
+
+.panel-body {
+  padding: 0;
+
+  table {
+    tr {
+      td {
+        padding-left: 15px;
+      }
+    }
+  }
+
+  .table {
+    margin-bottom: 0;
+  }
+}
+
+
+table {
+  a:not(.btn) {
+    text-decoration: none;
+  }
+}

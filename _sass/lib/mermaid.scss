@@ -1,0 +1,158 @@
+
+// Partly based on Mermaid LESS sources
+// Taken from https://github.com/knsv/mermaid/tree/master/src/less/default
+@import 'flatly';
+
+.language-mermaid svg {
+
+  font-family: $cs-font;
+  font-size: 1em;
+
+  .node {
+    background-color: $cs-success;
+
+    .label {
+      color: $cs-whitetext;
+    }
+
+    ellipse,
+    rect {
+      fill: $cs-primary;
+      stroke: $cs-primary;
+    }
+
+    polygon,
+    circle {
+      fill: $cs-warning;
+      stroke: inherit;
+    }
+
+    .path {
+      stroke: $cs-success;
+    }
+
+    &.clickable {
+      cursor: pointer;
+    }
+  }
+
+  .actor {
+    fill: $cs-primary;
+    stroke: $cs-primary;
+
+  }
+
+  text.actor {
+    fill: $cs-whitetext;
+    font-family: $cs-font;
+    stroke: none;
+  }
+
+  .edgePath {
+    .path {
+      fill: $cs-primary;
+      stroke: $cs-primary;
+      stroke-width: 1px;
+    }
+  }
+
+  .arrowheadPath {
+    fill: $cs-primary;
+  }
+
+  .edgeLabel {
+    background-color: $cs-bg-primary;
+  }
+
+  .actor-line {
+    stroke: $cs-success;
+    stroke-width: 1.5;
+  }
+
+  .messageLine0 {
+    marker-end: 'url(#arrowhead)';
+    stroke: $cs-primary;
+    stroke-dasharray: '2 2';
+  }
+
+  .messageLine1 {
+    stroke: $cs-lighttext;
+    stroke-dasharray: '2 2';
+  }
+
+  #arrowhead {
+    fill: $cs-primary;
+  }
+
+  .messageText {
+    fill: $cs-maintext;
+    font-size: 14px;
+    stroke: none;
+  }
+
+  .label {
+    color: $cs-primary;
+    font-size: inherit;
+  }
+
+  .labelBox {
+    fill: $cs-warning;
+    stroke: $cs-warning;
+  }
+
+  .labelText {
+    fill: $cs-whitetext;
+    stroke: none;
+  }
+
+  .loopText {
+    fill: $cs-warning;
+    stroke: none;
+
+    tspan {
+      fill: $cs-info;
+    }
+  }
+
+  .loopLine {
+    marker-end: 'url(#arrowhead)';
+    stroke: $cs-warning;
+    xstroke-dasharray: '2 2';
+  }
+
+  .note {
+    fill: $cs-info;
+    stroke: $cs-info;
+  }
+
+  .noteText {
+    fill: $cs-whitetext;
+    stroke: none;
+
+    tspan {
+      fill: $cs-whitetext;
+    }
+  }
+
+  .cluster {
+    rect {
+      fill: $cs-bg-primary;
+      stroke: $cs-bg-primary;
+    }
+  }
+
+  g:not([class]) {
+    rect:not([class]) {
+      fill: $cs-whitetext;
+      stroke: $cs-success;
+    }
+  }
+
+  g.node {
+    rect:not([class]) {
+      fill: $cs-success;
+      stroke: $cs-success;
+    }
+  }
+
+}

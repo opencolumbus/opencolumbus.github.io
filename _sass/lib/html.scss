@@ -1,0 +1,61 @@
+body {
+  color: $cs-maintext;
+}
+
+h1,
+h2 {
+  color: $cs-danger;
+}
+
+h3 {
+  color: $cs-success;
+}
+
+code,
+tt {
+  background-color: $cs-bg-primary;
+  color: $cs-danger;
+}
+
+a {
+  color: $cs-info;
+}
+
+footer {
+  a {
+    color: $cs-success;
+  }
+}
+
+:target::before {
+  content: '';
+  display: block;
+  height: 70px; // fixed header height
+  margin: -70px 0 0; // negative fixed header height
+}
+
+@mixin alertbox($colour) {
+  border-color: $colour;
+  border-style: solid;
+  border-width: 1px 1px 1px 1em;
+  padding: .5em;
+}
+
+.success { @include alertbox($cs-success) }
+
+.info { @include alertbox($cs-info) }
+
+.warning { @include alertbox($cs-warning) }
+
+.danger { @include alertbox($cs-danger) }
+
+pre.highlight {
+  background-color: $cs-bg-primary;
+  border-left: .2em solid $cs-success;
+}
+
+.language-bash {
+  pre.highlight {
+    border-left-color: $cs-primary;
+  }
+}
