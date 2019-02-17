@@ -24,6 +24,7 @@ github_username:  SCODEMeetup
 # Build settings
 markdown: kramdown
 theme: dataworkbench-jekyll-theme
+remote_theme: data4development/dataworkbench-jekyll-theme
 plugins:
   - jekyll-feed
 
