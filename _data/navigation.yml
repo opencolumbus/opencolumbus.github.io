@@ -1,0 +1,18 @@
+- title: Welcome
+  url: /
+- title: Projects
+  url: /projects.html
+  sublinks:
+    - title: Creating a new project
+      url: /projects/req_new.html
+- title: Code of Conduct
+  url: /coc.html
+- title: About
+  url: /about.html
+  sublinks:
+    - title: Organizers
+      url: /about/organizers_landing.html
+    - title: Meetup
+      url: https://www.meetup.com/Smart-Columbus-Open-Data-Enthusiasts/
+    - title: Github
+      url: https://github.com/SCODEMeetup
