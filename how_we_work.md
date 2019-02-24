@@ -3,7 +3,7 @@
 
 ## High-level of meetings throughout a year
 
-1. [Planning sessions](planning-sessions)
+1. [Planning sessions](#planning-sessions)
 1. [Topic collection / whats next planning](#topic-collection--whats-next-planning)
 1. [Normal meetings](#normal-meetings)
 
