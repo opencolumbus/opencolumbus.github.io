@@ -32,12 +32,12 @@ The group meets on a monthly cadence. The current cadence is the second Tuesday 
 
 ## Important Links
 
-1. Community github org [SCODEMeetub](https://github.com/SCODEMeetu)
+1. Community github org [SCODEMeetup](https://github.com/SCODEMeetup)
    * *TODO* Please ping the organizers to be added to the org as a contributor
 1. Slack channel - #scode on [Techlife Columbus](http://www.techlifecolumbus.com/) [slack](https://techlife-columbus.slack.com/)
    * Please [join](https://techlife-columbus-slack.herokuapp.com/) the community slack!
 1. Smart Columbus [Open Datasets](https://www.smartcolumbusos.com/data)
 1. [Seed use cases](https://www.smartcolumbusos.com/data-stories) to solve
-   * *TODO* we should have own own use-cases as community-contributed may not be 100% fit / match or even exist ;)
+   * *TODO* we should have our own use-cases as community-contributed may not be 100% fit / match or even exist ;)
 
 Note: The meetup is open to individuals of all backgrounds and skillsets in the Columbus community. You can be the developer, designer, product or business idea person or an engaged community member with a problem in mind to solve. There is a place for everyone. Even if you haven't attended the hackathon please stop by if you want to pitch/understand/contribute.
