@@ -3,7 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home
-title: Welcome
 order: 1
 ---
 
@@ -14,6 +13,16 @@ We are community-based enthusiasts focused on the [Smart Columbus](https://www.c
 We will be continuing the momentum from the [2018 Hackathon]( http://hackscos.com ). Our goals are to enable community participation in areas of BI/Analytics, Data analysis / Visualization and software development. Check out the hackathon [review](https://youtu.be/appq0fQceP8) video!
 
 Promoting Smart Columbus [open datasets](https://www.smartcolumbusos.com/data) to solve challenges related to the quality of life and economic growth of Columbus.
+
+## When and where we meet
+
+The group meets on a monthly cadence. The current cadence is the second Tuesday of the month. The location we meet will vary based on a number of factors:
+
+1. We try to host at companies already involved in Smart City Columbus in some way
+1. We try to roam the meeting space around based on where people live
+   * basically we look around the i270 loop
+   * central downtown
+1. Event spaces willing to donate space ;)
 
 ## Our Goals:
 
