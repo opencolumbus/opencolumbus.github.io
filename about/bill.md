@@ -11,6 +11,8 @@ I have over 20 years experience in '[it](https://en.wikipedia.org/wiki/The_IT_Cr
 
 As of March 2019 I will be celebrating my 4th year anniversary as an operations engineer at [CoverMyMeds](https://www.covermymeds.com).
 
+The single most interesting and inspiring reference I could make on how I feel about open source, maker ethos etc is best summed up by Adam Savage in his [2017 Maker Faire](https://www.youtube.com/watch?v=8n8ywfqdGyE) speech followed by his [10 commandments of making](https://www.youtube.com/watch?v=ER7rhQ7N69k) speech. Both I highly recommend ( duh, I put them in my bio page! ).
+
 ## Various community interests
 
 My interests are pretty varied as you can see from below ;)
