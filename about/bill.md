@@ -9,7 +9,7 @@ I have over 20 years experience in '[it](https://en.wikipedia.org/wiki/The_IT_Cr
 
  I have run or been heavily involved in many community related things in the past. My goal as an organizer for the SCODE meetup is to facilitate those interested in the community to create cool stuff, learn, network and put the [Smart Columbus](https://smartcolumbusos.com/) to use for public interests.
 
-As of March 2019 I will be celebrating my 4th year anniversary as an operations engineer at [CoverMyMeds](https://www.covermymeds.com).
+As of May 2019 I an working at [DataRobot](https://www.datarobot.com) as a DevOps Engineer on the Cloud Operations team.
 
 The single most interesting and inspiring reference I could make on how I feel about open source, maker ethos etc is best summed up by Adam Savage in his [2017 Maker Faire](https://www.youtube.com/watch?v=8n8ywfqdGyE) speech followed by his [10 commandments of making](https://www.youtube.com/watch?v=ER7rhQ7N69k) speech. Both I highly recommend ( duh, I put them in my bio page! ).
 
