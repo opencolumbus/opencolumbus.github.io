@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home
 order: 1
+title: Welcome to OpenColumbus
 ---
 
 ## What we're about
