@@ -1,4 +1,5 @@
 ---
+title: How We Work
 ---
 
 ## High-level of meetings throughout a year
