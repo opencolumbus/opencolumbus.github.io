@@ -2,6 +2,7 @@
 title: Mihir Amin
 order: 3
 ---
+![](https://media-exp1.licdn.com/dms/image/C5603AQF99oH-w-r_og/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=kkJ723Axie6pKGm2QAuK_7_UJ4gOwg5RDxvwh69oFVM)
 
 Mihir is working as an Engineering Lead at Olive Inc for the last 2 years. He has help lead products from ideation through to launch. He is able to manage expectations and help deliver products in a timely manner. He works closely with product and designers to help create an internal platform that is intuitive and easy to use by its user base. He is responsible for requirements breakdown, sprint/release planning, and technical design documentation.
 

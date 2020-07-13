@@ -2,8 +2,9 @@
 title: Vijay Yadev
 order: 2
 ---
+![](https://media-exp1.licdn.com/dms/image/C4E03AQH15tBFNnx_Hg/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=sO8OiHbO7vHeORm6RiK1kfNlG0B2U_Ca4kNC8ebf9FM)
 
-Vijay is working as a Lead Engineer at OCLC and brings 15 years of technology experience. He plays a critical role in developing technology solutions while working closely with architects and product leadership towards the execution of the business strategy.
+Vijay is working as a Software Engineering manager at McGraw Hill and brings 17 years of technology experience. He plays a critical role in developing technology solutions while working closely with architects and product leadership towards the execution of the business strategy.
 
 Part of his responsibility is to work with fellow developers and project managers to ensure end-to-end technical delivery. He is accountable for participating in scope definitions, requirement breakdowns, release planning, technical design, and development.
 
