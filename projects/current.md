@@ -2,6 +2,61 @@
 title: Current Projects
 ---
 
+
+Bike Safety App
+==
+### Project Lead -
+1. [Andrew Goldfarb](https://www.linkedin.com/in/andrew-goldfarb-158a05107/)
+2. [Joe Kay](https://www.linkedin.com/in/joseph-kay-0a35978a/)
+3. [Phil Norman](https://www.linkedin.com/in/phil-norman/)
+
+### Description
+Creating a new community biking safety initiative focused around connecting with the Columbus biking/scooting/pedestrian to collect user feedback on the existing biking infrastructure in the city based on their reported level of safety upon arriving at their destination.
+[Project github](https://github.com/SCODEMeetup/cbus-biking-LOC)
+
+ Columbus Project Sidewalk
+==
+### Leader
+
+[Chris Hires](https://www.linkedin.com/in/christopherrhires) ,
+[Dean Allemang](https://www.linkedin.com/in/dean-allemang-96218), [Vijay Yadav](https://www.linkedin.com/in/vejay/), [Mihir Amin](https://www.linkedin.com/in/mihir-amin-46910540/)
+
+### Details
+
+Problem - While pedestrian routing algorithms are getting faster and more informative, planning a route with a wheeled device in urban centers is difficult due to lack of integrated pertinent information regarding accessibility along the route. To adequately plan a commute, a traveler with limited or wheeled mobility must know whether her path may be blocked by construction, whether the sidewalk would be too steep or rendered unusable due to poor conditions, whether the street can be crossed or a highway is blocking the way, or whether there is a sidewalk at all. These details populate different datasets in many modern municipalities, but they are not immediately available in a convenient, integrated format to be useful to people with limited mobility. 
+
+The solution in Columbus is Project Sidewalk. First developed by the University of Washington, volunteers in any city can now label their streets by virtually exploring them and adding labels like Curb ramps conditions, sidewalk obstacles and surface conditions. This data will allow cities in improving city planning, building accessibility aware mapping tools and train machine learning algorithms to automatically find accessibility issues.
+
+Site - http://columbus.projectsidewalk.io/
+API - https://sidewalk-columbus.cs.washington.edu/api
+https://sidewalk-columbus.cs.washington.edu/v2/access/attributes?lat1=39.962&lng1=-82.995&lat2=39.968&lng2=-83.004
+
+### Media attention
+1. https://abc6onyourside.com/news/local/project-sidewalk-mapping-the-accessibility-of-columbus-sidewalks
+2. https://www.columbusnavigator.com/open-sidewalks-columbus/
+
+
+Columbus Helper
+==
+### Tech Leads: 
+1. [Molly Henderson]()
+2. [Mike Harrison]()
+3. [Phil Norman](https://www.linkedin.com/in/phil-norman/)
+4. [Mihir Amin](https://www.linkedin.com/in/mihir-amin-46910540/)
+5. [Vijay Yadav](https://www.linkedin.com/in/vejay/)
+
+### Project's introduction
+Problem - Community Centers face challenges navigating the vast network of disparate social services information and providing paper snapshots og available services. 
+
+Solution - ColumbusHelper.org is a responsive web application available to the public and accessible from any device. The app provides location, contact and hours information about Food, Housing and Transportation services.
+
+https://www.smartcolumbusos.com/data-stories/volunteer-coders-help-families-in-need-find-food-pantries
+https://scodemeetup.github.io/locator-jekyll/
+
+### Live site
+https://www.columbushelper.org/
+
+
 911-search
 ==
 ### Project Lead -
@@ -50,53 +105,3 @@ Next Steps
 2. Complete median household income by location dataset
 3. Tune and test data model 
 4. Use model results for IRl data validation
-
-Bike Safety App
-==
-### Project Lead -
-1. [Andrew Goldfarb](https://www.linkedin.com/in/andrew-goldfarb-158a05107/)
-
-### Description
-Creating a new community biking safety initiative focused around connecting with the Columbus biking/scooting/pedestrian to collect user feedback on the existing biking infrastructure in the city based on their reported level of safety upon arriving at their destination.
-
- Columbus Project Sidewalk
-==
-### Leader
-
-[Chris Hires](https://www.linkedin.com/in/christopherrhires) ,
-[Dean Allemang](https://www.linkedin.com/in/dean-allemang-96218), [Vijay Yadav](https://www.linkedin.com/in/vejay/), [Mihir Amin](https://www.linkedin.com/in/mihir-amin-46910540/)
-
-### Details
-
-Problem - While pedestrian routing algorithms are getting faster and more informative, planning a route with a wheeled device in urban centers is difficult due to lack of integrated pertinent information regarding accessibility along the route. To adequately plan a commute, a traveler with limited or wheeled mobility must know whether her path may be blocked by construction, whether the sidewalk would be too steep or rendered unusable due to poor conditions, whether the street can be crossed or a highway is blocking the way, or whether there is a sidewalk at all. These details populate different datasets in many modern municipalities, but they are not immediately available in a convenient, integrated format to be useful to people with limited mobility. 
-
-The solution in Columbus is Project Sidewalk. First developed by the University of Washington, volunteers in any city can now label their streets by virtually exploring them and adding labels like Curb ramps conditions, sidewalk obstacles and surface conditions. This data will allow cities in improving city planning, building accessibility aware mapping tools and train machine learning algorithms to automatically find accessibility issues.
-
-Site - http://columbus.projectsidewalk.io/
-API - https://sidewalk-columbus.cs.washington.edu/api
-https://sidewalk-columbus.cs.washington.edu/v2/access/attributes?lat1=39.962&lng1=-82.995&lat2=39.968&lng2=-83.004
-
-### Media attention
-1. https://abc6onyourside.com/news/local/project-sidewalk-mapping-the-accessibility-of-columbus-sidewalks
-2. https://www.columbusnavigator.com/open-sidewalks-columbus/
-
-
-Columbus Helper
-==
-### Tech Leads: 
-1. [Molly Henderson]()
-2. [Mike Harrison]()
-3. Melissa Boyer
-4. Mihir Amin
-5. Vijay Yadav
-
-### Project's introduction
-Problem - COMMUNITY CENTERS FACE CHALLENGES NAVIGATING THE VAST NETWORK OF DISPARATE SOCIAL SERVICES INFORMATION AND PROVIDING PAPER SNAPSHOTS OF AVAILABLE SERVICES. 
-
-Solution - ColumbusHelper.org is a responsive web application available to the public and accessible from any device. The app provides location, contact and hours information about Food, Housing and Transportation services.
-
-https://www.smartcolumbusos.com/data-stories/volunteer-coders-help-families-in-need-find-food-pantries
-https://scodemeetup.github.io/locator-jekyll/
-
-### Live site
-https://www.columbushelper.org/
